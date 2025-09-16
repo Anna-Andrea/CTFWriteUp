@@ -1,7 +1,7 @@
 import requests
 import base64
 
-target_url = "http://challenge-01a476180f764fe6.sandbox.ctfhub.com:10800/flag.html"
+target_url = "http://challenge-a782a91c55764779.sandbox.ctfhub.com:10800/"
 username = "admin"
 password_file = "10_million_password_list_top_100.txt"
 

@@ -1,44 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="f15cf60c-bbea-4975-bf21-ddcc0caeb9d4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ctf.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/10_million_password_list_top_100.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/basicAuth.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Anna-Andrea&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Anna-Andrea/ctf.git",
+    "accountId": "3ddff5af-a36c-4315-95b7-a6d55296f3dd"
+  }
 }]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="32XF66aZE9O9l9uJJirqSq8cKA2" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Caesar.executor": "Run",
+    "Python.RSA.executor": "Run",
     "Python.basicAuth.executor": "Run",
+    "Python.brute_force.executor": "Run",
+    "Python.decryption.executor": "Run",
+    "Python.icmp_data.executor": "Run",
+    "Python.icmp_len_binary.executor": "Run",
+    "Python.icmpdata.executor": "Run",
+    "Python.icmplength.executor": "Run",
+    "Python.quickSolution.executor": "Run",
+    "Python.scanDir.executor": "Run",
+    "Python.solution.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/lindi/Desktop/ctf/ctf/web"
+    "last_opened_file_path": "/Users/lindi/Desktop/ctf/CTFWriteUp/xctf/crypto_wp/not_only_morse",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/web" />
+      <recent name="$PROJECT_DIR$/xctf/crypto_wp/not_only_morse" />
+      <recent name="$PROJECT_DIR$/xctf/crypto_wp/flag_in_your_hand" />
+      <recent name="$PROJECT_DIR$/xctf/crypto_wp/baigeiRSA" />
+      <recent name="$PROJECT_DIR$/xctf/crypto/RSA" />
+      <recent name="$PROJECT_DIR$/xctf/crypto/base64" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/xctf/crypto/base64" />
+      <recent name="$PROJECT_DIR$/xctf/crypto/img" />
     </key>
   </component>
   <component name="SharedIndexes">
